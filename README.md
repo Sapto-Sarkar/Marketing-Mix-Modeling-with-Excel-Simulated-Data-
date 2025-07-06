@@ -53,5 +53,4 @@ This project is ideal for:
 
 ---
 
-## 📌 Repository Structure (If Applicable)
 
